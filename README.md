@@ -2,6 +2,7 @@
 
 [![Build Status](https://dnceng.visualstudio.com/public/_apis/build/status/dotnet/runtime/runtime?branchName=master)](https://dnceng.visualstudio.com/public/_build/latest?definitionId=686&branchName=master)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dotnet/runtime)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fruntime.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Fruntime?ref=badge_shield)
 
 This repo contains the code to build the .NET runtime, libraries and shared host (`dotnet`) installers for
 all supported platforms, as well as the sources to .NET runtime and libraries.
@@ -65,3 +66,6 @@ General .NET OSS discussions: [.NET Foundation forums](https://forums.dotnetfoun
 ## License
 
 .NET (including the runtime repo) is licensed under the [MIT](LICENSE.TXT) license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fruntime.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Fruntime?ref=badge_large)
